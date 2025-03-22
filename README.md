@@ -1,5 +1,3 @@
-# Solubility-Prediction
-
 # Solubility Predictor
 
 ## Introduction
