@@ -35,7 +35,7 @@ This project predicts the solubility of molecules using linear regression. I bui
 - Pandas
 - NumPy
 - Scikit-learn
-- Jupyter Notebook
+- Matplotlib
 
 ## License
 Licensed under the MIT License.
